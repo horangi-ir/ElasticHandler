@@ -1,0 +1,15 @@
+{
+	"report_format":"txt",
+	"delimiter":"|",
+	"start_line":"7",
+	"type":"fastir_arp_table",
+	"map_file":"etc\\fastir_arp.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Ip",
+		"Mac Address",
+		"Status",
+	],
+	"add_columns":[]
+}
