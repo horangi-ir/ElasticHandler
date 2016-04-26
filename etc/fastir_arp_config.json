@@ -1,5 +1,5 @@
 {
-	"report_format":"txt",
+	"report_format":"csv",
 	"delimiter":"|",
 	"start_line":"7",
 	"type":"fastir_arp_table",
@@ -11,5 +11,6 @@
 		"Mac Address",
 		"Status",
 	],
-	"add_columns":[]
+	"add_columns":[
+        ]
 }
