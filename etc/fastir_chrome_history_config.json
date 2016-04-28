@@ -1,0 +1,18 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_chrome_history",
+	"map_file":"etc/fastir_chrome_history.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Time",
+		"Url",
+		"Title",
+		"User",
+		"Profile"
+	],
+	"add_columns":[
+        ]
+}

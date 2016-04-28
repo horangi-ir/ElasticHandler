@@ -1,0 +1,14 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_clipboard",
+	"map_file":"etc/fastir_clipboard.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Data"
+	],
+	"add_columns":[
+        ]
+}
