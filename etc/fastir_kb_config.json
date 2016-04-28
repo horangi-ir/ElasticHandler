@@ -1,0 +1,20 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_kb",
+	"map_file":"etc/fastir_kb.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Caption",
+		"Fix comments",
+		"Hotfix ID",
+		"Installed on",
+		"Name",
+		"Service pack",
+		"Status"
+	],
+	"add_columns":[
+        ]
+}

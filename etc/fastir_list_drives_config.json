@@ -1,0 +1,17 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_list_drives",
+	"map_file":"etc/fastir_list_drives.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Fab",
+		"Partitions",
+		"Disk",
+		"Filesystem"
+	],
+	"add_columns":[
+        ]
+}

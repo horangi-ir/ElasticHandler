@@ -1,0 +1,32 @@
+{
+	"mappings": {
+		"fastir_arp_table": {
+			"properties": {
+				"Computer Name":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Type":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Fab":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Partitions":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Disk":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Filesystem":{
+					"type": "string",
+					"index": "not_analyzed"
+				}
+			}
+		}
+	}
+}
