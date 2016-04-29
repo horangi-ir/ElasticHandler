@@ -1,6 +1,6 @@
 {
 	"mappings": {
-		"fastir_arp_table": {
+		"fastir_prefetch": {
 			"properties": {
 				"Computer Name":{
 					"type": "string",

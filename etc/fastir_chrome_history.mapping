@@ -1,6 +1,6 @@
 {
 	"mappings": {
-		"fastir_arp_table": {
+		"fastir_chrome_history": {
 			"properties": {
 				"Computer Name":{
 					"type": "string",

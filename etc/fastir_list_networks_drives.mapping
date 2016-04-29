@@ -1,6 +1,6 @@
 {
 	"mappings": {
-		"fastir_arp_table": {
+		"fastir_list_networs_drives": {
 			"properties": {
 				"Computer Name":{
 					"type": "string",

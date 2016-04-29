@@ -1,6 +1,6 @@
 {
 	"mappings": {
-		"fastir_arp_table": {
+		"fastir_named_pipes": {
 			"properties": {
 				"Computer Name":{
 					"type": "string",
