@@ -1,0 +1,24 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_prefech",
+	"map_file":"etc/fastir_prefetch.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"File",
+		"Version",
+		"Size",
+		"Exec Name",
+		"Create Time",
+		"Modification Time",
+		"Run Count",
+		"Start Time",
+		"Duration",
+		"Average Duration",
+		"Dll List"
+	],
+	"add_columns":[
+        ]
+}

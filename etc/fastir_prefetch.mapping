@@ -1,0 +1,60 @@
+{
+	"mappings": {
+		"fastir_arp_table": {
+			"properties": {
+				"Computer Name":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Type":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"File":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Version":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Size":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Exec Name":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Create Time":{
+					"type": "date",
+					"format": "HH:mm.s"
+				},
+				"Modification Time":{
+					"type": "date",
+					"format": "HH:mm.s"
+				},
+				"Run Count":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Start Time":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Duration":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Average Duration":{
+					"type": "string",
+					"index": "not_analyzed"
+				},
+				"Dll List":{
+					"type": "string",
+					"index": "not_analyzed"
+				}
+			}
+		}
+	}
+}

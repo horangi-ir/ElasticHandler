@@ -1,0 +1,16 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_networks_list_drives",
+	"map_file":"etc/fastir_networks_list_drives.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Disk",
+		"Filesystem",
+		"Partition Name"
+	],
+	"add_columns":[
+        ]
+}

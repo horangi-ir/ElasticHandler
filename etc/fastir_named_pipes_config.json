@@ -1,0 +1,14 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_named_pipes",
+	"map_file":"etc/fastir_named_pipes.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Disk"
+	],
+	"add_columns":[
+        ]
+}

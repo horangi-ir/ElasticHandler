@@ -1,0 +1,20 @@
+{
+	"report_format":"csv",
+	"delimiter":",",
+	"start_line":"0",
+	"type":"fastir_opensaveMRU",
+	"map_file":"etc/fastir_regkeys.mapping",
+	"columns":[
+		"Computer Name",
+		"Type",
+		"Last Write Time",
+		"Hive",
+		"Key Path",
+		"Attr Name",
+		"Reg Type",
+		"Attr Type",
+		"Attr Data"
+	],
+	"add_columns":[
+        ]
+}
